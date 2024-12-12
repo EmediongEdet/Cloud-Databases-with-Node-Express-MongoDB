@@ -1,0 +1,4 @@
+.env
+server/node_modules/@mongodb-js
+server/node_modules/@mongodb-js/saslprep/LICENSE
+server/node_modules/@mongodb-js/saslprep/package.json
